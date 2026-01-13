@@ -25,3 +25,9 @@ The goal is to resolve issues early, escalate clearly, and prevent repeat failur
 
 ## Relevance
 Effective exception handling is critical to maintaining on-time delivery and customer trust.
+
+Sample Excel Sheet:
+
+## Sample View
+![Exception-Tracker Preview](exception-tracker.png)
+
